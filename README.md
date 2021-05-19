@@ -2,7 +2,7 @@
 This Application is a decentralized application implemented to perform hotel reservations privately using Blockchain technology.
 
 ## Aim of the project:
-Blockchain, the foundation of the bitcoin and the future of the payment technology. The aim of the project ‘Hotel reservations using Blockchain’ is based to understand and implement secure transactions with transparency between the customers and the business using Blockchain and cryptocurrency.
+Blockchain, the foundation of the bitcoin and the future of the payment technology. The aim of the project ‘Hotel reservations using Blockchain’ is to understand and implement secure transactions with transparency between the customers and the business using Blockchain and cryptocurrency.
 
 ## Tools and languages:
 The tools and languages used in this project are: 
