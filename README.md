@@ -5,9 +5,10 @@ This Application is a decentralized application implemented to perform hotel res
 Blockchain, the foundation of the bitcoin and the future of the payment technology. The aim of the project ‘Hotel reservations using Blockchain’ is to understand and implement secure transactions with transparency between the customers and the business using Blockchain and cryptocurrency.
 
 ## Tools and languages:
-The tools and languages used in this project are: 
-Backend tools: Remix IDE for solidity programming, npm and truffle to compile and immigrate.
-Front tools: React, Truffle, Metamask, web3.js Library, Smart contract, Ganache.
+
+**Backend **: Remix IDE for solidity programming, npm and truffle to compile and migrate.
+
+**Frontend **: React, Truffle, Metamask, web3.js Library, Smart contract, Ganache.
 
 ## Use case Diagram:
 The use case diagram is a representation of a user’s interaction with system that shows the relationship between the user and the different use cases in which the user is involved.
@@ -16,10 +17,10 @@ The use case diagram is a representation of a user’s interaction with system t
 
 
 
-##Who is user?
+## Who is user?
 The user here is the customer who is using the blockchain transactions over traditional payments.
 
-##Functions supported by the application
+## Functions supported by the application
 **View profile**: The client can open the site and experience profile
 **User Login**: The user can enter his credentials and become an authenticated user. They are a security measure designed to prevent unauthorized access to confidential data
 **Check room availability**: The approved user can experience the rooms left/consumed.
@@ -50,15 +51,15 @@ Install Ganache and create a workspace
 ###Install Metamask chrome extension and link the private blockchain(ganashe) with metamask
 
 
-###Write front end code. 
-Use web3 js to integrate all the components, (private blockchain, frontend application, metamask)
+### Write front end code. 
+Use web3.js to integrate all the components (private blockchain, frontend application, metamask)
 
 
-###How does it look?
+### How does it look?
 The final output of the Customer UI is below:
 ![image](https://user-images.githubusercontent.com/41775443/113840925-357cf100-975f-11eb-8516-6d38b394af8b.png)
 
-###Encountered Issues
+### Encountered Issues
 Faced connectivity issues from Ganache, Truffle and React.
 **Resolution**: By Setting the network in Metamask to custom blockchain created by Ganache, Metamask wallet is able to connect to the private block chain which we are going to use for developing our smart contract.
 In our font end we are checking if the browser’s window object has Ethereum object in it. Using this Ethereum object we are able to instantiate our web3 instance.
