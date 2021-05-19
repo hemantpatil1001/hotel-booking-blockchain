@@ -6,9 +6,9 @@ Blockchain, the foundation of the bitcoin and the future of the payment technolo
 
 ## Tools and languages:
 
-**Backend **: Remix IDE for solidity programming, npm and truffle to compile and migrate.
+**Backend**: Remix IDE for solidity programming, npm and truffle to compile and migrate.
 
-**Frontend **: React, Truffle, Metamask, web3.js Library, Smart contract, Ganache.
+**Frontend**: React, Truffle, Metamask, web3.js Library, Smart contract, Ganache.
 
 ## Use case Diagram:
 The use case diagram is a representation of a user’s interaction with system that shows the relationship between the user and the different use cases in which the user is involved.
